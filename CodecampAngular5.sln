@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Angular5Template", "Angular5Template\Angular5Template.csproj", "{CC278BB5-2CF3-44B2-8BF0-30E7BACC050C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoAngular.Ui", "..\TodoAngular.Ui\TodoAngular.Ui.csproj", "{743088B1-F7EF-4800-BCE6-9612FF6DB49C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentAngular.Ui", "PaymentAngular.Ui\PaymentAngular.Ui.csproj", "{126925ED-818F-42FC-899C-70F8E2592A72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeUi", "EmployeeUi\EmployeeUi.csproj", "{52EE80F4-39AA-4BD9-A1F3-53BC6F86A656}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC278BB5-2CF3-44B2-8BF0-30E7BACC050C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC278BB5-2CF3-44B2-8BF0-30E7BACC050C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC278BB5-2CF3-44B2-8BF0-30E7BACC050C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC278BB5-2CF3-44B2-8BF0-30E7BACC050C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{743088B1-F7EF-4800-BCE6-9612FF6DB49C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{743088B1-F7EF-4800-BCE6-9612FF6DB49C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{743088B1-F7EF-4800-BCE6-9612FF6DB49C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{743088B1-F7EF-4800-BCE6-9612FF6DB49C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{126925ED-818F-42FC-899C-70F8E2592A72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{126925ED-818F-42FC-899C-70F8E2592A72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{126925ED-818F-42FC-899C-70F8E2592A72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{126925ED-818F-42FC-899C-70F8E2592A72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52EE80F4-39AA-4BD9-A1F3-53BC6F86A656}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52EE80F4-39AA-4BD9-A1F3-53BC6F86A656}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52EE80F4-39AA-4BD9-A1F3-53BC6F86A656}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52EE80F4-39AA-4BD9-A1F3-53BC6F86A656}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3894728-C372-4ABC-B4B0-1C348F882BFF}
+	EndGlobalSection
+EndGlobal
